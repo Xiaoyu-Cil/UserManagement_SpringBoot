@@ -1,2 +1,2 @@
-# SpringBoot
-SpringBoot training
+# SpringBoot Backend used for user management
+
